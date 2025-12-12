@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Joanna Tan - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
