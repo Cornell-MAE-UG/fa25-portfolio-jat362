@@ -3,7 +3,7 @@ layout: project
 title: Engineering Ethics
 description: MAE 4300
 technologies: [SolidWorks, Machining]
-image: /assets/images/lion-air.png
+image: /assets/images/lion-air.jpg
 ---
 
 Engineering ethics
