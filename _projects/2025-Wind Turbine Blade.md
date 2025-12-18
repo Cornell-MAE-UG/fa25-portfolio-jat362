@@ -26,7 +26,7 @@ Power Curves for the Long Blade:
 ![Experimental power curves]({{ "/assets/images/long-power-curves.png" | relative_url }}){:style="width: 550px"}
 
 While our blades operated as expected in terms of rotational behavior, the measured power output was about an order of magnitude lower than predicted. This discrepancy highlighted limitations in our modeling assumptions, particularly the neglect of drag, turbulent losses, and stall effects, which led to an overestimation of the useful aerodynamic forces acting on the blades.
-	For future iterations, we would refine the model to better account for these effects by incorporating drag and stall behavior into the aerodynamic analysis, adjusting the blade twist to achieve a lower pitch angle near the tip. 
+For future iterations, we would refine the model to better account for these effects by incorporating drag and stall behavior into the aerodynamic analysis, adjusting the blade twist to achieve a lower pitch angle near the tip. 
 
 
 My primary contributions included assisting with the MATLAB modeling and interpretation of results, helping analyze discrepancies between theoretical and experimental performance, and supporting wind tunnel testing and data collection. I also contributed to refining design assumptions after the first round of testing and to synthesizing results into clear conclusions. Throughout the project, our group maintained strong communication and collaboration, with responsibilities well distributed and all members actively engaged in design, testing, and analysis, which was critical to successfully completing an iterative and experimentally driven project.
